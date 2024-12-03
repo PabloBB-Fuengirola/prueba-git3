@@ -1,0 +1,2 @@
+un texto cualquiera en la primera línea
+otro texto, ahora en la segunda línea
